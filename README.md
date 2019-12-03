@@ -1,3 +1,4 @@
+```
 实验目的
 了解持续集成的做法，学会使用 Travis CI。
 操作步骤
@@ -72,9 +73,11 @@ $ git push
 练习
 修改hello.js，让其输出Hello Node。并修改测试用例hello.test.js，使之能够通过 Travis CI 的自动构建。
 
+下面的英文说明是原作者的，我没看
+```
 
 
-下面的英文是原作者的，我没看
+
 This is a beginner tutorial of Travis CI for Node projects.
 
 ## How to use
